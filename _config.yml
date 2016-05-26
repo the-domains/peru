@@ -1,14 +1,14 @@
 layout_spectrum: 0.5006266
-typography_spectrum: 0.5150376
 color:
-  saturation: 0.7775689
+  saturation: 0.9699248
   brandStrength: 0.6697995
-  lightness: 0.6522557
+  lightness: 0.9649123
   brandColors:
     - '#ECF3FB'
     - '#191B27'
     - '#04508C'
     - '#C5BEAA'
     - '#96866D'
-  rhythmicContrast: 0.5401003
+  rhythmicContrast: 0.05576441
+typography_spectrum: 0.5150376
 name: Peru
