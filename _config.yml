@@ -1,6 +1,18 @@
-layout_spectrum: 0.5006266
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.5150376
 color:
-  saturation: 0.9699248
+  saturation: 0.8684211
   brandStrength: 0.6697995
   lightness: 0.9649123
   brandColors:
@@ -9,6 +21,6 @@ color:
     - '#04508C'
     - '#C5BEAA'
     - '#96866D'
-  rhythmicContrast: 0.05576441
-typography_spectrum: 0.5150376
+  rhythmicContrast: 0.2581454
+layout_spectrum: 0.5006266
 name: Peru
