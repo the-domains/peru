@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 typography_spectrum: 0.5150376
 color:
   saturation: 0.8684211
   brandStrength: 0.6697995
-  lightness: 0.9649123
+  rhythmicContrast: 0.2581454
   brandColors:
     - '#ECF3FB'
     - '#191B27'
     - '#04508C'
     - '#C5BEAA'
     - '#96866D'
-  rhythmicContrast: 0.2581454
-layout_spectrum: 0.5006266
+  lightness: 0.9649123
+layout_spectrum: 0.6691729
 name: Peru
